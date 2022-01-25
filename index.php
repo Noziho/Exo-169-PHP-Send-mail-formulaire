@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
 <form action="" method="post">
     <div>
         <label for="id-mail">Mail:</label>
-        <input type="mail" id="id-mail" name="user_mail">
+        <input type="email" id="id-mail" name="user_mail">
     </div>
     <div>
         <label for="id-message">Votre message:</label>
